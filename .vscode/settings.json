@@ -57,7 +57,8 @@
       "cms",
       "wagtail"
     ],
-    "[django-html]": {
+    "[django-html]": 
+    {
       "editor.quickSuggestions": {
         "other": true,
         "comments": true,
